@@ -1,4 +1,4 @@
-# -Movie-Review-Management-System
+# -Movie-Review-Manager-Python
 🎬 Movie Review Management System (Python)
 
 A Python-based application for managing movie records and user reviews through a menu-driven interface. The system simulates basic database functionality using text and CSV files, allowing users to store, modify, search, and analyze movie data.
